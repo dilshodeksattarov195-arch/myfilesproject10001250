@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvonnect",
+        "uuid": 9637500,
+        "checksum": "26fiap"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
